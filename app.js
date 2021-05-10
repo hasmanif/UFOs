@@ -12,6 +12,7 @@ function buildTable(data) {
       // each value as a table cell (td)
       Object.values(dataRow).forEach((val) => {
         let cell = row.append("td");
+        // add values to row
         cell.text(val);
         }
       );
