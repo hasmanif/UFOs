@@ -7,7 +7,7 @@ The purpose of the UFO project is to build an HTML page that allows you to pull 
 #### Title Page of Webpage
 ![Title](images/Title_image.PNG)
 
-Above we have a clean HTML webpage that has includes a title over a graphic bakground and a small blurb that details whether UFO sightings are fact or fancy. Below we continue on to the data portion of the webpage that allows the user to filter the data set using several filter options such as City, Date and Shape. From here the data is the organized to match the filter options and is neatly displayed in a table.
+Above we have a clean HTML webpage that has includes a title over a graphic bakground and a small blurb that details whether UFO sightings are fact or fancy. Below we continue on to the data portion of the webpage that allows the user to filter the data set using several filter options such as City, Date and Shape. From here the data is the organized to match the filter options and is neatly displayed in a table. All the fields can be used simultaneously and if a criteria not part of the data set, the filtered results will not output any information. The user has the option to press the filter button or press enter.
 
 ![Filter](images/Filter_image.PNG)
 
